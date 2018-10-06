@@ -1,6 +1,0 @@
-server.servlet.context-path=/PlanDetailsApp
-spring.datasource.driverClassName=oracle.jdbc.driver.OracleDriver
-spring.datasource.url=jdbc:oracle:thin:@localhost:1522:xe
-spring.datasource.username=system
-spring.datasource.password=raj
-spring.jpa.hibernate.ddl-auto=update
